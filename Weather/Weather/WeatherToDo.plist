@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>raining</key>
+	<array>
+		<string>http://www.realsimple.com/health/mind-mood/fun-things-to-do-rainy-day-00000000056092/</string>
+		<string>http://www.youtube.com/watch?v=sghoOa_-euk</string>
+		<string>http://www.wikihow.com/Find-Things-to-Do-When-It&apos;s-Raining</string>
+		<string>http://www.rainymood.com/</string>
+	</array>
+	<key>sunny</key>
+	<array>
+		<string>http://www.accuweather.com/en/features/trend/hidden-dangers-of-the-sun-1/65367</string>
+		<string>http://teenadvice.about.com/od/entertainment/a/fun-things-to-do-in-the-summer-for-teenagers.htm</string>
+		<string>http://www.danielbranch.com/50-things-to-do-on-a-warm-sunny-day-that-are-worthwhile/</string>
+		<string>http://space-facts.com/the-sun/</string>
+	</array>
+	<key>cloudy</key>
+	<array>
+		<string>http://13-fun-facts.blogspot.com/2011/05/13-fun-facts-about-clouds.html</string>
+		<string>http://weather-facts.com/cloud-facts.php</string>
+		<string>http://blog.ted.com/2013/07/16/8-illuminating-facts-about-clouds/</string>
+		<string>http://www.sciencekids.co.nz/sciencefacts/weather/clouds.html</string>
+	</array>
+	<key>cold</key>
+	<array>
+		<string>http://www.huffingtonpost.com/marlo-thomas/twelve-things-to-do-when-its-cold-outside_b_2340865.html</string>
+		<string>http://www.usatodayeducate.com/staging/index.php/blog/25-fun-things-to-do-when-its-too-cold-to-go-outside</string>
+	</array>
+	<key>snowing</key>
+	<array>
+		<string>http://www.parents.com/fun/activities/outdoor/snow-activities-kids/</string>
+		<string>http://powertochange.com/family/snow/</string>
+		<string>http://www.timeout.com/newyork/things-to-do/snow-and-ice-activities</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Snowing</key>
+	<string>snow50</string>
+	<key>Raining</key>
+	<string>rainy50</string>
+	<key>Hot Weather</key>
+	<string>sunny50</string>
+	<key>Cloudy</key>
+	<string>cloudy50</string>
+	<key>Cold Weather</key>
+	<string>cold50</string>
+</dict>
+</plist>

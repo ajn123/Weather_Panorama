@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Snowing</key>
+	<dict>
+		<key>Men</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.dickssportinggoods.com/category/index.jsp?categoryId=4415818</string>
+			<key>Gloves</key>
+			<string>http://www.burton.com/default/mens-snowboard-gloves-mitts</string>
+			<key>Hats</key>
+			<string>http://www.rei.com/search?search=Winter+Hats</string>
+			<key>Shoes</key>
+			<string>http://shop.timberland.com/family/index.jsp?categoryId=4032175</string>
+			<key>Jackets</key>
+			<string>http://www1.macys.com/shop/mens-clothing/mens-coats?id=3763&amp;edge=hybrid#!fn=sortBy%3DBEST_SELLERS%26productsPerPage%3D40&amp;!qvp=iqvp</string>
+			<key>Pants</key>
+			<string>http://www.rei.com/search?search=Winter+Pants</string>
+		</dict>
+		<key>Women</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.dickssportinggoods.com/category/index.jsp?categoryId=13357323</string>
+			<key>Gloves</key>
+			<string>http://www.thenorthface.com/catalog/sc-gear/women-s-accessories.html</string>
+			<key>Hats</key>
+			<string>http://www1.macys.com/cms/slp/2/Winter-Hats</string>
+			<key>Shoes</key>
+			<string>http://www.dsw.com/womens-shoes/</string>
+			<key>Jackets</key>
+			<string>http://www.macys.com/cms/slp/2/Winter-Coats</string>
+			<key>Pants</key>
+			<string>http://www.columbia.com/womens-pants/women-pants,default,sc.html</string>
+		</dict>
+	</dict>
+	<key>Raining</key>
+	<dict>
+		<key>Men</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.basspro.com/Rain-Gear/_/S-12600001008</string>
+			<key>Hats</key>
+			<string>http://www.amazon.com/Best-Sellers-Clothing-Mens-Rain-Hats/zgbs/apparel/2578667011</string>
+			<key>Shoes</key>
+			<string>http://www.zappos.com/men-boots~c</string>
+			<key>Jackets</key>
+			<string>http://www.amazon.com/b?ie=UTF8&amp;node=2476604011</string>
+			<key>Pants</key>
+			<string>http://www.rei.com/category/40004586</string>
+		</dict>
+		<key>Women</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.dickssportinggoods.com/category/index.jsp?categoryId=4414457</string>
+			<key>Hats</key>
+			<string>http://www.totes-isotoner.com/totes/category/rainwear/headwear.do?legacy=true</string>
+			<key>Shoes</key>
+			<string>http://www.target.com/c/rain-boots-women-s-shoes/-/N-5xtcz</string>
+			<key>Jackets</key>
+			<string>http://www.columbia.com/Women%E2%80%99s-Arcadia-Rain%E2%84%A2-Jacket/RL2111,default,pd.html</string>
+		</dict>
+	</dict>
+	<key>Hot Weather</key>
+	<dict>
+		<key>Men</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.travelsmith.com/men/packing-guide/beach/?redirect=y</string>
+			<key>Shoes</key>
+			<string>http://www.zappos.com/beach-sandals</string>
+			<key>SwimWear</key>
+			<string>http://www1.macys.com/shop/mens-clothing/mens-swimwear?id=3291</string>
+			<key>Hats</key>
+			<string>http://www.sundayafternoons.com/shop-by-activity/beach-resort.html</string>
+			<key>Sunglasses</key>
+			<string>http://www.sunglasshut.com/</string>
+		</dict>
+		<key>Women</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.swell.com/!la0vzrubQT0gTworSEuOyQ!/Womens</string>
+			<key>Shoes</key>
+			<string>http://www.dsw.com/womens-shoes/collection/sandals/flip+flops+.and.+beach/dsw11cat380001/page-1/</string>
+			<key>SwimWear</key>
+			<string>http://www1.macys.com/shop/womens-clothing/womens-swimwear?id=8699</string>
+			<key>Sunglasses</key>
+			<string>http://www.oakley.com/women/store/sunglasses</string>
+			<key>Hats</key>
+			<string>http://www1.macys.com/cms/slp/2/Beach-Hats-for-Women</string>
+		</dict>
+	</dict>
+	<key>Cloudy</key>
+	<dict>
+		<key>Men</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://tsbmen.com/1508/tip-of-the-day-attacking-the-rain-in-style/</string>
+			<key>Shoes</key>
+			<string>http://www.dnainfo.com/new-york/20131023/soho/five-rainy-day-shoes-every-man-new-york-needs</string>
+			<key>Hats</key>
+			<string>http://www.marquisoffashion.com/mens-style-tips-for-rainy-weather/</string>
+			<key>Pants</key>
+			<string>http://www.style.com/stylefile/2011/01/rainy-day-men/</string>
+		</dict>
+		<key>Women</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.pinterest.com/kweliwright/rainy-day-outfits/</string>
+			<key>Shoes</key>
+			<string>http://www.zappos.com/born</string>
+			<key>Hats</key>
+			<string>http://www.couriermail.com.au/lifestyle/fashion/what-to-wear-on-a-rainy-day/story-fnivsvxe-1226742508597</string>
+			<key>Pants</key>
+			<string>http://www.surfoutlet.com/product_p/45214.htm</string>
+		</dict>
+	</dict>
+	<key>Cold Weather</key>
+	<dict>
+		<key>Men</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.underarmour.com/shop/us/en/ua-coldgear/mens</string>
+			<key>Jackets</key>
+			<string>http://www1.macys.com/cms/slp/2/Winter-Jackets</string>
+			<key>Shoes</key>
+			<string>http://www.shoes.com/en-US/Mens/_/_/Outdoor+Shoes~Cold+Weather/_/Products.aspx</string>
+			<key>Hats</key>
+			<string>http://www.amazon.com/b?ie=UTF8&amp;node=2615154011</string>
+			<key>Pants</key>
+			<string>http://www.moosejaw.com/moosejaw/shop/content_winter-pants____</string>
+		</dict>
+		<key>Women</key>
+		<dict>
+			<key>All Gear</key>
+			<string>http://www.underarmour.com/shop/us/en/ua-coldgear/womens</string>
+			<key>Jackets</key>
+			<string>http://www.scottevest.com/</string>
+			<key>Shoes</key>
+			<string>http://www.columbia.com/shoes-boots-womens-snow-ski/footwear-women-coldweather,default,sc.html</string>
+			<key>Hats</key>
+			<string>http://www.amazon.com/gp/top-rated/sporting-goods/2615191011</string>
+			<key>Pants</key>
+			<string>http://www.columbia.com/womens-pants/women-pants,default,sc.html</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
